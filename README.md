@@ -1,5 +1,6 @@
 # capyba-project
-A Python-Django Rest API Project i Developed for a Challenge.
+
+## A Python-Django Rest API Project i Developed for a Challenge.
 Este é um Projeto Rest API Desenvolvido na Linguagem Python, e no Framework Django. Este é um APP que funciona com um sistema de usuários, onde cada usuário
 possui uma tarefa a ser realizada, cada tarefa possui um Título (Title), uma Descrição (Description) da tarefa, e uma marcação de a mesma foi completada ou não (Complete)
 O sistema de tarefas funciona como um CRUD, Create, Read, Update e Delete, todas essas funcionalidades existem no sistema, o usuário pode então realizar cada uma
