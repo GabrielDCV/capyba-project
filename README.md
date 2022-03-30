@@ -10,10 +10,10 @@ https://www.python.org/downloads/ (Recomendo caso esteja pelo OS Windows); Ou, t
 Agora, é necessário a instalação do Framework Django, você pode instalar pelo comando abaixo em seu terminal:
 python -m pip install Django
 
-Agora que instalamos todas as ferramentas, podemos iniciar o projeto! Utilize o comando abaixo no terminal: 
-python manage.py runserver ;
-Após o aplicativo rodar normalmente, o terminal mostrará tal mensagem: Starting development server at http://127.0.0.1:8000/ Clique no link para ser redirecionado
-ao APP do programa que está no navegador.
+Agora que instalamos todas as ferramentas, podemos iniciar o projeto! Utilize o comando no terminal: 
+python manage.py runserver
+Após o aplicativo rodar normalmente, o terminal mostrará tal mensagem: 
+Starting development server at http://127.0.0.1:8000/ 
+Clique no link para ser redirecionado ao APP do programa que está no navegador.
 
-Ao entrar no link, você verá uma tela de Login, caso tenha uma conta no sistema logue normalmente (Que provavelmente não é o seu caso correto?), caso não possua uma conta
-vá para a página de se registrar e crie um conta lá
+Ao entrar no link, você verá uma tela de Login, caso tenha uma conta no sistema logue normalmente (Que provavelmente não é o seu caso correto?), caso não possua uma conta vá para a página de se registrar e crie um conta lá
